@@ -39,11 +39,5 @@
   },
   "dependencies": {
     "dotenv-safe": "^8.2.0"
-  },
-  "lint-staged": {
-    "**/*.{ts,json,css,md,js,jsx,tsx}": [
-      "prettier --single-quote --write",
-      "git add"
-    ]
   }
 }
