@@ -1,3 +1,4 @@
+import dotenv from 'dotenv-safe';
 import add from '@src/math/addNumber';
 
 dotenv.config();
